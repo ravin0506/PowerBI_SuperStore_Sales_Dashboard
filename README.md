@@ -1,5 +1,7 @@
 # PowerBI_SuperStore_Sales_Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZGQ4MjMwN2YtMGMxZC00ZDE2LTgyNWItNmU4ZjFmZThjNzFjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
 i have published the interactive dashboard of a superstore's sales.
 In this report,i tried to analyise the yearly sales and profit of the superstore.
 we can analyise the profit sub-categorywise and categorywise.
